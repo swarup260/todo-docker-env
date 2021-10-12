@@ -5,6 +5,21 @@
 * MongoDB 
 * Frontend Todo VueJS App
 
+
+### Folder Structure
+
+```
+|-- todo-docker-env
+    |__ docker-compose.yml 
+    |__ docker-compose-dev.yml 
+    |__ docker-compose-prod.yml 
+|-- todo-tracker-
+    |__ Dockerfile 
+|-- todo-tracker-frontend
+    |__ Dockerfile
+
+```
+
 ## Command List 
 * Development
 
